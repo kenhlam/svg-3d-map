@@ -1,0 +1,13 @@
+
+#app {
+    width: 800px;
+    height: 400px;
+    background: #1E1F22;
+    margin: 0;
+    position: relative;
+
+    /* background: url("~@project/demo1/assets/img/bg1.jpg") center center no-repeat; */
+    opacity: 1;
+    background-size: 100% 100%;
+
+}
