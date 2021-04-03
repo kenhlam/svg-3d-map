@@ -14,7 +14,6 @@ npm i svg3d-map-cdkx --save
 
 ## 启动
 
-npm i 
 
 npm start
 
